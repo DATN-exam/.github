@@ -1,4 +1,6 @@
 # Online Exam Online
+- BE: https://github.com/DATN-exam/BE.
+- FE: https://github.com/DATN-exam/FE.
 
 ## Technology
 - **Back-end:** Laravel, Cron Job, JWT.
