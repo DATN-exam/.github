@@ -4,7 +4,7 @@
 
 ## Technology
 - **Back-end:** Laravel, Cron Job, JWT.
-- **Front-end:** React JS, Tailwind CSS, TinyMCE.
+- **Front-end:** React JS, TypeScript, Tailwind CSS, TinyMCE.
 - **Real-time Notifications:** Pusher.
 - **Database:** MySQL.
 
