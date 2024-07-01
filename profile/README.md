@@ -35,7 +35,7 @@ Link youtube demo: https://youtu.be/V0kS8vuYLbc?si=6EY1xQioHb6xVO-o
 
 ## Contact Us
 
-For more information, please contact us via email at [email@example.com](mailto:dactoan1346@gmail.com).
+For more information, please contact us via email at [dactoan1346@gmail.com](mailto:dactoan1346@gmail.com).
 
 ---
 
